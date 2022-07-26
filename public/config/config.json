@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEC7c034D350c3a07b9fE550dcB036A9d9A7C1e1A",
+  "SCAN_LINK": "https://etherscan.io/address/0xec7c034d350c3a07b9fe550dcb036a9d9a7c1e1a",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Shook Sharks",
+  "SYMBOL": "Shook Shark",
+  "MAX_SUPPLY": 8000,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/shook-sharks",
+  "SHOW_BACKGROUND": true
+}
