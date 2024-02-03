@@ -399,7 +399,7 @@ function App() {
           >
             We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
             successfully mint your NFT. We recommend that you don't lower the
-            gas limit.
+            gas limit. Don't be shook, the gas estimate is typically much higher than what you'll actually pay!!
           </s.TextDescription>
         </s.Container>
       </s.Container>
